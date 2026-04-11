@@ -52,22 +52,22 @@ Critical actions remain visible and accessible at all times.
 
 ### Overview
 
-![Overview](screenshotsOverview.png)
+![Overview](screenshots/Overview.png)
 Overview of available robots with status information.
 
 ### Operate
 
-![Operate](screenshotsOperate.png)
+![Operate](screenshots/Operate.png)
 Real-time control and monitoring interface.
 
 ### Mapping
 
-![Mapping](screenshotsMapping.png)
+![Mapping](screenshots/Mapping.png)
 Map-based navigation and interaction.
 
 ### Settings
 
-![Settings](screenshotsSettings.png)
+![Settings](screenshots/Settings.png)
 Configuration and system settings interface.
 
 ---
