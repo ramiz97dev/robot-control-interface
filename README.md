@@ -103,8 +103,9 @@ A consistent design system was used to ensure scalability and clarity across all
 
 ## Collaboration
 
-The initial prototype was created collaboratively.
-The overall UX structure, interaction logic, and system design were primarily developed by me.
+The initial prototype was created collaboratively.  
+The overall UX structure, interaction logic, and system design were primarily developed by me.  
+The documentation was prepared as part of the project context.
 
 ---
 
