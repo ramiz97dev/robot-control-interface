@@ -88,7 +88,7 @@ Figma prototype:
 The project is supported by detailed documentation:
 
 * [Requirements Specification (Pflichtenheft)](docs/pflichtenheft.pdf)
-* [UX/UI Design Documentation](docs/entwurf.pdf)
+* [UX/UI Design Documentation](docs/Entwurfsdokumentation_UXUI_Roboterportal.pdf)
 * [Implementation Documentation](docs/implementierung.pdf)
 
 ---
