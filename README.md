@@ -89,7 +89,7 @@ The project is supported by detailed documentation:
 
 * [Requirements Specification (Pflichtenheft)](docs/Pflichtenheft_UXUI_Roboterportal.pdf)
 * [UX/UI Design Documentation](docs/Entwurfsdokumentation_UXUI_Roboterportal.pdf)
-* [Implementation Documentation](docs/implementierung.pdf)
+* [Implementation Documentation](docs/Implementierungsdokumentation_UXUI_Roboterportal.pdf)
 
 ---
 
