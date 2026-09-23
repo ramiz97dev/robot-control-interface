@@ -101,6 +101,23 @@ A consistent design system was used to ensure scalability and clarity across all
 
 ---
 
+## Additional UX Exploration
+
+Beyond the core robot-control interface, the Figma project also documents several supporting UX activities and design explorations:
+
+* **Mobile adaptation** – selected views were adapted for smaller screens
+* **Navigation structure** – information architecture and navigation paths were mapped out separately
+* **Design & Development Guide** – guidance was prepared to support a clearer handoff from design to development
+* **AI-assisted UI exploration** – Figma's AI tools were used to generate alternative interface concepts
+* **AI evaluation** – generated layouts were reviewed against the project requirements to identify useful ideas as well as limitations
+* **Presentation** – the final UX/UI concept and design decisions were prepared for presentation
+
+These additional materials provide a broader view of the design process beyond the final desktop screens.
+
+[View the complete Figma project](https://www.figma.com/design/j4Ev6rxPdCfPUdz6ghlO6u/Robot-Portal-%E2%80%93-UX-UI-Konzept?node-id=2035-316&p=f)
+
+---
+
 ## Collaboration
 
 The initial prototype was created collaboratively.  
