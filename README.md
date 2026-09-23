@@ -116,6 +116,8 @@ These additional materials provide a broader view of the design process beyond t
 
 [View the complete Figma project](https://www.figma.com/design/j4Ev6rxPdCfPUdz6ghlO6u/Robot-Portal-%E2%80%93-UX-UI-Konzept?node-id=2035-316&p=f)
 
+> **Tip:** Open the **Pages** panel in Figma to explore the full project structure, including the design system, mobile views, AI experiments, navigation structure, developer guide, and presentation.
+
 ---
 
 ## Collaboration
